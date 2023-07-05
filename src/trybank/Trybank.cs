@@ -23,6 +23,7 @@ public class Trybank
     // 1. Construa a funcionalidade de cadastrar novas contas
     public void RegisterAccount(int number, int agency, int pass)
     {
+        //inicio
         throw new NotImplementedException();
     }
 
